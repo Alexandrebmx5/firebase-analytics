@@ -25,8 +25,8 @@ class _TabsPageState extends State<TabsPage> with SingleTickerProviderStateMixin
     const Tab(text: 'Tela 1'),
     const Tab(text: 'Tela 2'),
     const Tab(text: 'Tela 3'),
-    const Tab(text: 'tela 4'),
-    const Tab(text: 'tela 5'),
+    const Tab(text: 'Tela 4'),
+    const Tab(text: 'Tela 5'),
   ];
 
   @override
